@@ -3,12 +3,8 @@ layout: default
 title: Woodlands Honey
 ---
 
-# Woodlands Honey
-<br>
-
-## Woodlands Honey - award-winning pure raw unfiltered local product.<br>
+## Woodlands Honey - award-winning pure raw unfiltered local product.
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br>
-<br>​
 The quality of our honey was confirmed in a competition held by mid-Bucks beekeepers association where it won the first place and was awarded "The Apiary Cup" in 2024.<br>
 
 ---
