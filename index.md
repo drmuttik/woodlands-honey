@@ -4,14 +4,14 @@ title: Woodlands Honey
 ---
 
 # Woodlands Honey
-<br><br>
+<br>
 
 ## Woodlands Honey - award-winning pure raw unfiltered local product.<br>
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br>
-​
----
-
+<br>​
 The quality of our honey was confirmed in a competition held by mid-Bucks beekeepers association where it won the first place and was awarded "The Apiary Cup" in 2024.<br>
+
+---
 
 ## Our Bees
 Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
