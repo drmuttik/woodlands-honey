@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: ""
 ---
 
 
@@ -17,8 +17,13 @@ Discover the magic in our honey – where every drop will teleport you to a flow
 ---
 
 ## Our Bees
-Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
-diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.
+<div style="display:flex; align-items:center;">
+  <img src="bees.jpeg" alt="Apiary Cup" width="300" style="float:right; margin-left:15px;">
+  <p style="margin-right:15px;">
+  Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
+  diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
+  </p>
+</div>
 
 ---
 
