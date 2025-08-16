@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<mark>
-## Woodlands Honey - award-winning pure raw unfiltered local product.
-</mark>
+
+## <mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" width="300" style="float:left; margin-right:15px;">
