@@ -1,8 +1,8 @@
 ---
 layout: default
-title: ""
+title:
 ---
-
+<img src="honeyjars.jpeg" alt="Honey Jars" width="400" style="margin-bottom:15px;">
 
 ## <mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br>
