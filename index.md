@@ -18,7 +18,6 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<section id="ourbees">
 ## Our Bees
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px;">
@@ -27,11 +26,9 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
   </p>
   <img src="manybees.jpeg" alt="Many bees" width="300" style="float:right; margin-left:15px; margin-bottom: 15px;">
 </div>
-</section>
 
 ---
 
-<section id="crystallises">
 ## Honey Crystallises
 <div style="display:flex; align-items:center;">
   <img src="greatframe.jpeg" alt="Great Frame" width="300" style="float:left; margin-right:15px; margin-bottom: 15px;">
@@ -41,7 +38,6 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
   opening it.<br><br>To return crystallised honey to its liquid state place the honey jar into a bowl with warm water.
   </p>
 </div>
-</section>
 
 ---
 
