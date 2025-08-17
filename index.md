@@ -2,7 +2,7 @@
 layout: default
 title: Woodlands Honey
 ---
-<img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;"">
+<img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;">
 
 ---
 
