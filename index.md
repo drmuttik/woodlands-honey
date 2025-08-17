@@ -5,7 +5,9 @@ title: Woodlands Honey
 <img src="honeyjars.jpeg" alt="Honey Jars" width="500" style="display:block; margin:0 auto 15px auto;">
 
 ## <mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>
-Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br>
+Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br><br>
+​At Woodlands Apiary, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
+we focus on ensuring that our bees are happy and our honey is as natural as possible.<br>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" width="300" style="float:left; margin-right:15px;">
   <p style="margin-left:15px;">
@@ -22,14 +24,14 @@ Discover the magic in our honey – where every drop will teleport you to a flow
   Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
   diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
   </p>
-  <img src="manybees.jpeg" alt="Many bees" width="300" style="float:right; margin-left:15px;">
+  <img src="manybees.jpeg" alt="Many bees" width="300" style="float:right; margin-left:15px; margin-bottom: 15px;">
 </div>
 
 ---
 
 ## Honey Crystallises
 <div style="display:flex; align-items:center;">
-  <img src="greatframe.jpeg" alt="Great Frame" width="300" style="float:left; margin-right:15px;">
+  <img src="greatframe.jpeg" alt="Great Frame" width="300" style="float:left; margin-right:15px; margin-bottom: 15px;">
   <p style="margin-left:15px;">
   All pure honey will crystallise! In fact, crystallisation is a great indicator of honey quality. 
   A good idea to delay crystallisation is to keep honey in a fridge or cellar and take a jar out some time before 
@@ -49,8 +51,6 @@ Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We 
 jar retains the purest flavours and nutrients. We carefully hand-spin the honeycombs and the honey only goes through a fine sieve to remove small pieces of honeycomb.
 There is no blending or heating involved. This process preserves the natural goodness that factory processing can never keep. Hands-on extraction allows us to make
 raw honey that is as close to nature as possible, with every batch reflecting our love and care.<br>
-​At Woodlands Apiary, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
-we focus on ensuring that our bees are happy and our honey is as natural as possible.<br>
 
 ---
 
