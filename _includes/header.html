@@ -1,0 +1,46 @@
+<style>
+  /* Basic hamburger styles */
+  #hamburger-toggle {
+    cursor: pointer;
+    font-size: 24px;
+    display: inline-block;
+    user-select: none;
+  }
+
+  nav.menu {
+    display: none;
+  }
+
+  nav.menu.open {
+    display: block;
+  }
+
+  nav.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav.menu li {
+    margin: 10px 0;
+  }
+</style>
+
+<div id="hamburger-toggle">&#9776; Menu</div>
+
+<nav class="menu" aria-label="Main navigation">
+  <ul>
+    {% for item in site.menu_items %}
+      <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<script>
+  const toggle = document.getElementById('hamburger-toggle');
+  const menu = document.querySelector('nav.menu');
+
+  toggle.addEventListener('click', () => {
+    menu.classList.toggle('open');
+  });
+</script>
