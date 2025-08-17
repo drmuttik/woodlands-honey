@@ -48,7 +48,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 ---
 
 ## Age Restriction
-<mark>You should not give honey to babies under 12 months of age.​​</mark>
+<span style="color: red;">You should not give honey to babies under 12 months of age.​​</span>
 
 ---
   
