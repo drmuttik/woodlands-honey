@@ -2,7 +2,7 @@
 layout: default
 title: Woodlands Honey
 ---
-# <mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark><br>
+# <mark style="text-align: center;">Woodlands Honey - award-winning pure raw unfiltered local product.</mark><br>
 <img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;">
 
 ---
