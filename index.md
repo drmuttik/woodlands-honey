@@ -2,9 +2,12 @@
 layout: default
 title: Woodlands Honey
 ---
-<img src="honeyjars.jpeg" alt="Honey Jars" width="500" style="display:block; margin:0 auto 15px auto;">
+<img src="honeyjars.jpeg" alt="Honey Jars" width="90vw" style="display:block; margin:0 auto 15px auto;">
 
-## <mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>
+---
+
+## Our Award
+<mark> Woodlands Honey - award-winning pure raw unfiltered local product.</mark>
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br><br>
 ​At Woodlands Apiary, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
 we focus on ensuring that our bees are happy and our honey is as natural as possible.<br>
