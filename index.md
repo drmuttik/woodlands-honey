@@ -62,5 +62,5 @@ raw honey that is as close to nature as possible, with every batch reflecting ou
 ---
 
 ## **Contact Us**
-Address: Woodlands, Kingsdale Road, Berkhamsted, HP4 3BS<br>
+Address: Woodlands, Kingsdale Road, Berkhamsted, HP4 3BS, UK<br>
 Email: honey@muttik.net
