@@ -2,7 +2,9 @@
 layout: default
 title: ""
 ---
-# **<mark><span style="text-align: center;">Woodlands Honey - award-winning pure raw unfiltered local product.</span></mark>**<br>
+<div style="text-align: center;">
+  # **<mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>**
+</div>
 <img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;">
 
 Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br><br>
