@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 <div style="text-align: center;">
-  # **<mark>Woodlands Honey - award-winning pure raw unfiltered local product.</mark>**
+  <h1><strong>Woodlands Honey - award-winning pure raw unfiltered local product.</strong></h1>
 </div>
 <img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;">
 
