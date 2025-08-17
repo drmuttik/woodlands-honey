@@ -2,8 +2,8 @@
 layout: default
 title: ""
 ---
-<div style="text-align: center; background-color: yellow; width: 100%; padding: 1em 0;">
-  <h1><strong>Woodlands Honey -<br>award-winning pure raw unfiltered local product.</strong></h1>
+<div style="text-align: center; background-color: #F0B234; width: 100%; padding: 1em 0;">
+  <h1><strong>Woodlands Honey:<br>award-winning pure raw unfiltered local product.</strong></h1>
 </div>
 
 <img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 80%;">
