@@ -16,7 +16,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;"><strong>Our Award<strong></strong></h2>
+<h2 style="text-align: center;"><strong>Our Award</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
