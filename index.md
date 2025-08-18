@@ -5,7 +5,7 @@ title: ""
 
 <style>
 body {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('honeycomb.jpg');
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('honeycomb.jpg');
   background-repeat: repeat;
   background-size: auto;
 }
