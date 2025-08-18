@@ -64,9 +64,9 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
 <h2 style="text-align:center;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <p style="margin-left:15px;">
-    Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We carefully spin the honeycombs and the honey
-    only goes through a fine sieve to remove small pieces of honeycomb. There is <strong>no&nbsp;blending or heating</strong> involved
-    and we use only stainless steel equipment, ensuring no plasic microparticles. So, every jar has nothing but the purest raw honey
+    Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We carefully spin the honey frames and the honey
+    only goes through a fine sieve to remove small pieces of the honeycomb. There is <strong>no&nbsp;blending or heating</strong> involved
+    and we use only stainless steel equipment without plasic microparticles. So, every jar has nothing but the purest raw honey
     reflecting our love and care.<br>
   </p>
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-left:15px; margin-bottom: 15px; width: 45%;">
