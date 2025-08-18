@@ -16,7 +16,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;"><strong>Our Award</strong></h2>
+<h2 style="align-items: flex-start;"><strong>Our Award</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -27,7 +27,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;"><strong>Our Bees</strong></h2>
+<h2 style="align-items: flex-start;"><strong>Our Bees</strong></h2>
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px;">
     Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
@@ -39,7 +39,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;"><strong>Honey Crystallises</strong></h2>
+<h2 style="align-items: flex-start;"><strong>Honey Crystallises</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="greatframe.jpeg" alt="Great Frame" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -52,17 +52,17 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;"><strong>Age Restriction</strong></h2>
+<h2 style="align-items: flex-start;"><strong>Age Restriction</strong></h2>
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px; color: red;">
-    You should not give honey to babies under 12 months of age.​​
+    <strong>You should not give honey to babies under 12 months of age.​​</strong>
   </p>
   <img src="uncapping.jpeg" alt="Bee" style="float:right; margin-left:15px; margin-bottom: 15px; width: 30%;">
 </div>
 
 ---
   
-<h2 style="text-align: center;"><strong>Honey Extraction</strong></h2>
+<h2 style="align-items: flex-start;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
