@@ -6,22 +6,24 @@ title: ""
   <h1><strong>Woodlands Honey:<br>award-winning pure raw unfiltered local product.</strong></h1>
 </div>
 
-<img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 45%;">
+<img src="honeyjars.jpeg" alt="Honey Jars" style="display:block; margin:0 auto 15px auto; width: 100%;">
 
-Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.<br><br>
+Discover the magic in our honey – where every drop will teleport you to a flower meadow on a sunny summer day.
+<br><br>
 ​At Woodlands Apiary, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
-we focus on ensuring that our bees are happy and our honey is as natural as possible.<br>
+we focus on ensuring that our bees are happy and our honey is as natural as possible.
+<br>
 
 ---
 
-## **Our Award**
+<h2 style="text-align: center;">Our Award</h2>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
   The quality of our honey was confirmed in a competition held by mid-Bucks beekeepers association where it won the first place and was awarded "The Apiary Cup" in 2024.<br>
   </p>
 </div>
-<br><br>
+<br>
 
 ---
 
@@ -33,6 +35,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
   </p>
   <img src="manybees.jpeg" alt="Many bees" style="float:right; margin-left:15px; margin-bottom: 15px; width: 45%;">
 </div>
+<br>
 
 ---
 
@@ -45,6 +48,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
     opening it.<br><br>To return crystallised honey to its liquid state place the honey jar into a bowl with warm water.
   </p>
 </div>
+<br>
 
 ---
 
@@ -53,14 +57,14 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
   <p style="margin-right:15px; color: red;">
     You should not give honey to babies under 12 months of age.​​
   </p>
-  <img src="manybees.jpeg" alt="Bee" style="float:right; margin-left:15px; margin-bottom: 15px; width: 40%;">
+  <img src="manybees.jpeg" alt="Bee" style="float:right; margin-left:15px; margin-bottom: 15px; width: 30%;">
 </div>
 
 ---
   
 ## **Honey Extraction**
 <div style="display:flex; align-items:center;">
-  <img src="greatframe.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 100%;">
+  <img src="greatframe.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
     Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We practice the time-honoured craft of manual honey extraction, ensuring that every
     jar retains the purest flavours and nutrients. We carefully hand-spin the honeycombs and the honey only goes through a fine sieve to remove small pieces of honeycomb.
@@ -68,6 +72,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
     raw honey that is as close to nature as possible, with every batch reflecting our love and care.<br>
   </p>
 </div>
+<br>
 
 ---
 
