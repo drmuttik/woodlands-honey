@@ -19,7 +19,7 @@ body {
 
 Discover the <strong>magic in our honey</strong> – where every drop will teleport you to a flower meadow on a sunny summer day.
 <br><br>
-​At Woodlands Apiary, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
+​At <strong>Woodlands Apiary</strong>, we are passionate about bringing you the finest honey straight from our hives in the heart of the countryside. As a small, family-run apiary,
 we focus on ensuring that our <strong>bees are happy</strong> and our <strong>honey is as natural as possible</strong>.
 <br>
 
@@ -39,7 +39,7 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
 <h2 style="text-align:center;"><strong>Our Bees</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <p style="margin-right:15px;">
-    Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
+    Our <strong>small apiary</strong> is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
     diverse flowers of Chiltern Hills, resulting in <strong>super tasty honey</strong> that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
   </p>
   <img src="manybees.jpeg" alt="Many bees" style="float:right; margin-left:15px; margin-bottom: 15px; width: 45%;">
@@ -64,10 +64,10 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
 <h2 style="text-align:center;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <p style="margin-left:15px;">
-    Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We practice the time-honoured craft of manual honey extraction, ensuring that every
-    jar retains the purest flavours and nutrients. We carefully hand-spin the honeycombs and the honey only goes through a fine sieve to remove small pieces of honeycomb.
-    There is <strong>no&nbsp;blending or heating</strong> involved. This process preserves the natural goodness that factory processing can never keep. Hands-on extraction allows us to make
-    raw honey that is as close to nature as possible, with every batch reflecting our love and care.<br>
+    Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We carefully spin the honeycombs and the honey
+    only goes through a fine sieve to remove small pieces of honeycomb. There is <strong>no&nbsp;blending or heating</strong> involved
+    and we use only stainless steel equipment, ensuring no plasic microparticles. So, every jar has nothing but the purest raw honey
+    reflecting our love and care.<br>
   </p>
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-left:15px; margin-bottom: 15px; width: 45%;">
 </div>
