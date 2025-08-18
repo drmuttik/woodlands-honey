@@ -66,7 +66,7 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
   <p style="margin-left:15px;">
     Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We practice the time-honoured craft of manual honey extraction, ensuring that every
     jar retains the purest flavours and nutrients. We carefully hand-spin the honeycombs and the honey only goes through a fine sieve to remove small pieces of honeycomb.
-    There is <strong>no blending or heating</strong> involved. This process preserves the natural goodness that factory processing can never keep. Hands-on extraction allows us to make
+    There is <strong>no&nbsp;blending or heating</strong> involved. This process preserves the natural goodness that factory processing can never keep. Hands-on extraction allows us to make
     raw honey that is as close to nature as possible, with every batch reflecting our love and care.<br>
   </p>
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-left:15px; margin-bottom: 15px; width: 45%;">
@@ -86,5 +86,5 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
 ---
 
 <h2 style="text-align: center;"><strong>Contact Us</strong></h2>
-**Address**: Woodlands, Kingsdale Road, Berkhamsted, HP4 3BS, UK<br>
+**Address**: E & I Muttik, Woodlands, Kingsdale Road, Berkhamsted, HP4 3BS, UK<br>
 **Email**: honey@muttik.net
