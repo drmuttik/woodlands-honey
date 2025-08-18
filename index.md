@@ -39,7 +39,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-## **Honey Crystallises**
+<h2 style="text-align: center;"><strong>Honey Crystallises</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="greatframe.jpeg" alt="Great Frame" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -52,7 +52,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-## **Age Restriction**
+<h2 style="text-align: center;"><strong>Age Restriction</strong></h2>
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px; color: red;">
     You should not give honey to babies under 12 months of age.​​
@@ -62,7 +62,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
   
-## **Honey Extraction**
+<h2 style="text-align: center;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="greatframe.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -76,6 +76,6 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-## **Contact Us**
+<h2 style="text-align: center;"><strong>Contact Us</strong></h2>
 **Address**: Woodlands, Kingsdale Road, Berkhamsted, HP4 3BS, UK<br>
 **Email**: honey@muttik.net
