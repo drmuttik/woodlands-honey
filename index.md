@@ -16,8 +16,8 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items: flex-start;"><strong>Our Award</strong></h2>
-<div style="display:flex; align-items:center;">
+<h2 style="align-items:center;"><strong>Our Award</strong></h2>
+<div style="display:flex; align-items: flex-start;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
   The quality of our honey was confirmed in a competition held by mid-Bucks beekeepers association where it won the first place and was awarded "The Apiary Cup" in 2024.<br>
@@ -27,8 +27,8 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items: flex-start;"><strong>Our Bees</strong></h2>
-<div style="display:flex; align-items:center;">
+<h2 style="align-items:center;"><strong>Our Bees</strong></h2>
+<div style="display:flex; align-items: flex-start;">
   <p style="margin-right:15px;">
     Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
     diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
@@ -39,8 +39,8 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items: flex-start;"><strong>Honey Crystallises</strong></h2>
-<div style="display:flex; align-items:center;">
+<h2 style="align-items:center;"><strong>Honey Crystallises</strong></h2>
+<div style="display:flex; align-items: flex-start;">
   <img src="greatframe.jpeg" alt="Great Frame" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
     All pure honey will crystallise! In fact, crystallisation is a great indicator of honey quality. 
@@ -52,8 +52,8 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items: flex-start;"><strong>Age Restriction</strong></h2>
-<div style="display:flex; align-items:center;">
+<h2 style="align-items:center;"><strong>Age Restriction</strong></h2>
+<div style="display:flex; align-items: flex-start;">
   <p style="margin-right:15px; color: red;">
     <strong>You should not give honey to babies under 12 months of age.​​</strong>
   </p>
@@ -62,8 +62,8 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
   
-<h2 style="align-items: flex-start;"><strong>Honey Extraction</strong></h2>
-<div style="display:flex; align-items:center;">
+<h2 style="align-items:center;"><strong>Honey Extraction</strong></h2>
+<div style="display:flex; align-items: flex-start;">
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
     Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We practice the time-honoured craft of manual honey extraction, ensuring that every
