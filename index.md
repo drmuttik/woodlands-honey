@@ -16,7 +16,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items:center;"><strong>Our Award</strong></h2>
+<h2 style="text-align:center;"><strong>Our Award</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -27,7 +27,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items:center;"><strong>Our Bees</strong></h2>
+<h2 style="text-align:center;"><strong>Our Bees</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <p style="margin-right:15px;">
     Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
@@ -39,7 +39,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items:center;"><strong>Honey Crystallises</strong></h2>
+<h2 style="text-align:center;"><strong>Honey Crystallises</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <img src="greatframe.jpeg" alt="Great Frame" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -52,7 +52,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="align-items:center;"><strong>Age Restriction</strong></h2>
+<h2 style="text-align:center;"><strong>Age Restriction</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <p style="margin-right:15px; color: red;">
     <strong>You should not give honey to babies under 12 months of age.​​</strong>
@@ -62,7 +62,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
   
-<h2 style="align-items:center;"><strong>Honey Extraction</strong></h2>
+<h2 style="text-align:center;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items: flex-start;">
   <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
