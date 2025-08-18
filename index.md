@@ -27,12 +27,11 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-## **Our Bees**
-<h2 style="text-align: center;"><strong></strong>Our Bees<strong></strong></h2>
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px;">
-  Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
-  diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
+    <h2 style="text-align: center;"><strong>Our Bees<strong></strong></h2>
+    Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
+    diverse flowers of Chiltern Hills, resulting in super tasty honey that captures the essence of the British countryside. You'll taste the difference in every drop.<br>
   </p>
   <img src="manybees.jpeg" alt="Many bees" style="float:right; margin-left:15px; margin-bottom: 15px; width: 45%;">
 </div>
