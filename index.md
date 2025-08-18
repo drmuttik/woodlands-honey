@@ -16,7 +16,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 
 ---
 
-<h2 style="text-align: center;">Our Award</h2>
+<h2 style="text-align: center;"><strong></strong>Our Award<strong></strong></h2>
 <div style="display:flex; align-items:center;">
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
@@ -28,6 +28,7 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
 ---
 
 ## **Our Bees**
+<h2 style="text-align: center;"><strong></strong>Our Bees<strong></strong></h2>
 <div style="display:flex; align-items:center;">
   <p style="margin-right:15px;">
   Our small apiary is on the outskirts of Berkhamsted. Our hives are colonies of friendly and resourceful Buckfast bees which forage on the lush, 
