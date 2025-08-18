@@ -57,14 +57,14 @@ we focus on ensuring that our bees are happy and our honey is as natural as poss
   <p style="margin-right:15px; color: red;">
     You should not give honey to babies under 12 months of age.​​
   </p>
-  <img src="manybees.jpeg" alt="Bee" style="float:right; margin-left:15px; margin-bottom: 15px; width: 30%;">
+  <img src="uncapping.jpeg" alt="Bee" style="float:right; margin-left:15px; margin-bottom: 15px; width: 30%;">
 </div>
 
 ---
   
 <h2 style="text-align: center;"><strong>Honey Extraction</strong></h2>
 <div style="display:flex; align-items:center;">
-  <img src="greatframe.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
+  <img src="extraction.jpeg" alt="Extraction" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
     Our commitment to quality of Woodlands Honey goes beyond the hives and bees. We practice the time-honoured craft of manual honey extraction, ensuring that every
     jar retains the purest flavours and nutrients. We carefully hand-spin the honeycombs and the honey only goes through a fine sieve to remove small pieces of honeycomb.
