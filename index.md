@@ -52,9 +52,8 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
 <div style="display:flex; align-items: flex-start;">
   <img src="greatframe.jpeg" alt="Great Frame" style="float:left; margin-right:15px; margin-bottom: 15px; width: 45%;">
   <p style="margin-left:15px;">
-    All pure honey will crystallise! In fact, crystallisation is a great indicator of <strong>honey quality</strong>. 
-    A good idea to delay crystallisation is to keep honey in a fridge or cellar and take a jar out some time before 
-    opening it.<br><br>To return crystallised honey to its liquid state place the honey jar into a bowl with warm water.
+    All pure honey will crystallise! In fact, crystallisation is a great indicator of <strong>honey quality</strong>.<br><br>
+    A good idea to delay crystallisation is to keep honey in a fridge. To return crystallised honey to its liquid state place the honey jar into a bowl with warm water.
   </p>
 </div>
 <br>
