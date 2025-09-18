@@ -30,6 +30,7 @@ we focus on ensuring that our <strong>bees are happy</strong> and our <strong>ho
   <img src="theapiarycup.jpeg" alt="Apiary Cup" style="float:left; margin-right:15px; width: 45%;">
   <p style="margin-left:15px;">
   The quality of our honey was confirmed in a competition held by mid-Bucks beekeepers association where it <strong>won the first place</strong> and was awarded "The Apiary Cup" in 2024.<br>
+  And, again, our honey <strong>took the first place in 2025</strong> in "medium honey" category.
   </p>
 </div>
 <br>
